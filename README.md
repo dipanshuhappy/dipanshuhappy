@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, Dipanshu Singh here.</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dipanshuhappy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/dipanshuhappy)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanshuhappy&label=Profile%20views&color=0e75b6&style=flat" alt="pratishthaa" /> </p>
 
-## I'm a Student, Aspiring Ai engineer, cross platform app developer and 
+
+## I'm a Student,  Full Stack Developer, learning Blockchain development and 
 
 - 🔭 Working with a startup ( idea can't be disclosed right now 🤫 )
 - 🌱 I’m currently learning everything 🤣
