@@ -3,7 +3,7 @@
 
 
 
-## I'm a Student,  Full Stack Developer, learning Blockchain development and 
+## I'm a Student,  Full Stack Developer, learning Blockchain development 
 
 - 🔭 Working with a startup ( idea can't be disclosed right now 🤫 )
 - 🌱 I’m currently learning everything 🤣
