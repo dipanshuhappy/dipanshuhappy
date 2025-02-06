@@ -3,12 +3,12 @@
 
 
 
-## I'm a Student,  Full Stack Developer, learning Blockchain development 
+## I'm a Student,  Full Stack Developer, Co Founder
 
-- 🔭 Working with a startup ( idea can't be disclosed right now 🤫 )
+- 🔭 Working with a startup normie.tech, viaprize.org and hushprotocol.com
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Programmers and engineers
-- 🥅 2022 Goals: Bohut hai...
+- 🥅 Goals: Freedom for all ...
 - ⚡ Fun fact: Code is art ...
 
 ### Connect with me:
