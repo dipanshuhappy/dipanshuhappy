@@ -54,32 +54,4 @@
 </details>
 </table>
 
-<table>
-<tr>
-  <!--<td align="center">
-  <p align="center">
-  <a href="https://github.com/dipanshuhappy">
-    <img align="center" height="200px" width="600" src="https://github-readme-stats.vercel.app/api/wakatime?username=dipanshuhappy"/>
-  </a>
-  </td>-->
-  <td align="center">
-  <a href="https://github.com/dipanshuhappy">
-    <img align="center" height="200px" width="600" src="https://github-readme-streak-stats.herokuapp.com?user=dipanshuhappy&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=C3DD29&ring=DD2727&sideNums=ABDD0F&dates=11A4DD" />
-    
-  </a>
-  </td>
-</p>
-</details>
-</table>
-
-<br>
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=dipanshuhappy&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true"> 
-</p>
-<br>
-
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=dipanshuhappy&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
-</p>
 
