@@ -3,7 +3,7 @@
 
 
 
-## I'm a Student,  Full Stack Developer, Co Founder
+## Full Stack Developer, Co Founder
 
 - 🔭 Working with a startup normie.tech, viaprize.org and hushprotocol.com
 - 🌱 I’m currently learning everything 🤣
