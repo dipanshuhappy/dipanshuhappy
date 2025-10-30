@@ -5,7 +5,7 @@
 
 ## Full Stack Developer, Co Founder
 
-- 🔭 Working with a startup normie.tech, viaprize.org and hushprotocol.com
+- 🔭 Working with a startup normie.tech and viaprize.org
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Programmers and engineers
 - 🥅 Goals: Freedom for all ...
