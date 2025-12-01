@@ -3,7 +3,7 @@
 
 
 
-## Asipiring Polymath.
+## Aspiring Polymath.
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other Programmers and engineers
 - 🥅 Goals: Freedom for all ...
